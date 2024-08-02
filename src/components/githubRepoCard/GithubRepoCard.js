@@ -12,7 +12,7 @@ export default function GithubRepoCard({ repo, theme }) {
   return (
     <div className="repo-card-div" style={{ backgroundColor: theme.highlight }}>
       <Fade bottom duration={2000} distance="40px">
-        <div key={repo.id} onClick={() => openRepoinNewTab(repo.url)}>
+        <div>
           <div className="repo-name-div">
             <svg
               aria-hidden="true"
@@ -39,7 +39,7 @@ export default function GithubRepoCard({ repo, theme }) {
               className="repo-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
-              Created on {repo.createdAt.split("T")[0]}
+              Date: {repo.createdAt.split("T")[0]}
             </p>
             <ProjectLanguages
               className="repo-languages"

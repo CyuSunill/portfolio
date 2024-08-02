@@ -2,121 +2,118 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "IT Infrastructure Setup for Supermarket",
+      "createdAt": "04-2024",
+      "description": "🔥 Implemented POS systems and inventory management software, integrating SD-WAN, Cisco switches, routers, CCTV, alarm systems, scale machines, PCs, printers, etc., for seamless supermarket operations.",
       "isFork": false,
       "languages": [
+        
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "POS",
+          "iconifyClass": "iconoir:pc-check"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "cctv",
+          "iconifyClass": "lucide:cctv"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "PC",
+          "iconifyClass": "game-icons:pc"
         }
       ]
     },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
+   
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Access Point Setup and Configuration",
+      "createdAt": "05-2024",
+      "url": "",
+      "description": "🔥 Set up and configure 15 Unifi Access Points UAP-AC-Pro. Integrated AP with Unifi Controller software for centralized management and MAC filtering, security protocols (WPA2/WPA3).",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "UniFi",
+          "iconifyClass": "cbi:unifi"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "AP",
+          "iconifyClass": "arcticons:unifi-network"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Backup and Disaster Recovery Plan",
+      "createdAt": "02-2023",
+      "url": "",
+      "description": "🔥Developed and implemented a NAS-based backup and disaster recovery plan to protect end-user data and ensure business continuity, and confirmed its effectiveness through successful testing.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Backup",
+          "iconifyClass": "mdi:backup"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NAS",
+          "iconifyClass": "mdi:nas"
         }
       ]
     },
+
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Server Room Cable Management",
+      "createdAt": "08-2023",
+      "url": "http://localhost:3000/projects",
+      "description": "🔥 Implemented cable management with trays, bundling, and labeling, resulting in a more organized server room for easier maintenance and contributing to better cooling and overall system performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Cable",
+          "iconifyClass": "ph:network"
+        }
+      ]
+    },
+
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
+      "name": "Network Infrastructure Upgrade",
+      "createdAt": "07-2019",
       "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "description": [
+        "🔥 Replaced old network routers and switches with new, and configured IP subnetting.",
+        " Enhanced network performance by 30%, reduced downtime, and improved security."
+    ],
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Router",
+          "iconifyClass": "bi:router"
+        },
+
+        {
+          "name": "Switch",
+          "iconifyClass": "clarity:network-switch-line"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "",
+      "name": "Industrial Software Install & Configuration",
+      "createdAt": "04-2017",
+      "description": [
+        "🔥  Installed and configured FactoryTalk View to optimize automation and real-time monitoring.",
+        " Implemented functional HMI systems and SCADA graphics for process control."
+    ],
+       
+  
+
+    
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Server",
+          "iconifyClass": "mdi:server"
         }
       ]
     }
