@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6d1708ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.4c846b33.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4c846b33.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3ebb7e75.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3ebb7e75.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.aa1db941.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa1db941.js.map",
-    "static/js/2.2ea9bf86.chunk.js": "/portfolio/static/js/2.2ea9bf86.chunk.js",
-    "static/js/2.2ea9bf86.chunk.js.map": "/portfolio/static/js/2.2ea9bf86.chunk.js.map",
+    "static/js/2.5f9129b6.chunk.js": "/portfolio/static/js/2.5f9129b6.chunk.js",
+    "static/js/2.5f9129b6.chunk.js.map": "/portfolio/static/js/2.5f9129b6.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b65e6674f7b1f379752d86ed08047a1c.js": "/portfolio/precache-manifest.b65e6674f7b1f379752d86ed08047a1c.js",
+    "precache-manifest.d13ba7f233efe83f5fc1fbdcd5f7205a.js": "/portfolio/precache-manifest.d13ba7f233efe83f5fc1fbdcd5f7205a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.6d1708ba.chunk.css.map": "/portfolio/static/css/main.6d1708ba.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -50,6 +50,7 @@
     "static/media/me1.png": "/portfolio/static/media/me1.a673c0df.png",
     "static/media/ministry.png": "/portfolio/static/media/ministry.061b7678.png",
     "static/media/muffito_logo.png": "/portfolio/static/media/muffito_logo.069938a8.png",
+    "static/media/myself.png": "/portfolio/static/media/myself.6efed8d2.png",
     "static/media/nptel_logo.png": "/portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/nyu.png": "/portfolio/static/media/nyu.49610ea7.png",
     "static/media/panchamuni.png": "/portfolio/static/media/panchamuni.eb6796a3.png",
@@ -59,7 +60,7 @@
     "static/media/programmer.svg": "/portfolio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
-    "static/media/realtech_diploma.png": "/portfolio/static/media/realtech_diploma.c96560e5.png",
+    "static/media/realtech.png": "/portfolio/static/media/realtech.6aeade8f.png",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
@@ -72,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa1db941.js",
-    "static/js/2.2ea9bf86.chunk.js",
+    "static/js/2.5f9129b6.chunk.js",
     "static/css/main.6d1708ba.chunk.css",
-    "static/js/main.4c846b33.chunk.js"
+    "static/js/main.3ebb7e75.chunk.js"
   ]
 }
