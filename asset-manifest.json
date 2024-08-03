@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6d1708ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.899517e2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.899517e2.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.3941b61d.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3941b61d.js.map",
-    "static/js/2.d444f5c0.chunk.js": "/portfolio/static/js/2.d444f5c0.chunk.js",
-    "static/js/2.d444f5c0.chunk.js.map": "/portfolio/static/js/2.d444f5c0.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b1c1b12e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b1c1b12e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.aa1db941.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa1db941.js.map",
+    "static/js/2.2ea9bf86.chunk.js": "/portfolio/static/js/2.2ea9bf86.chunk.js",
+    "static/js/2.2ea9bf86.chunk.js.map": "/portfolio/static/js/2.2ea9bf86.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.1ee373112ec9708ef83fe07d8afedfc5.js": "/portfolio/precache-manifest.1ee373112ec9708ef83fe07d8afedfc5.js",
+    "precache-manifest.f589d473eb02431ffe25149a8016d2bd.js": "/portfolio/precache-manifest.f589d473eb02431ffe25149a8016d2bd.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.6d1708ba.chunk.css.map": "/portfolio/static/css/main.6d1708ba.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -71,9 +71,9 @@
     "static/media/university_california.png": "/portfolio/static/media/university_california.e56141f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3941b61d.js",
-    "static/js/2.d444f5c0.chunk.js",
+    "static/js/runtime-main.aa1db941.js",
+    "static/js/2.2ea9bf86.chunk.js",
     "static/css/main.6d1708ba.chunk.css",
-    "static/js/main.899517e2.chunk.js"
+    "static/js/main.b1c1b12e.chunk.js"
   ]
 }
