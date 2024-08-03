@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f5433e576672bdcaddbb8d38bb4dd28",
+    "revision": "119f6e1b04ad209e99b8f19cc0507dff",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e92e9a4c11717e7a92ec",
+    "revision": "1d9b17e78b11a73123bf",
     "url": "/portfolio/static/css/main.6d1708ba.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.5f9129b6.chunk.js"
   },
   {
-    "revision": "e92e9a4c11717e7a92ec",
-    "url": "/portfolio/static/js/main.3ebb7e75.chunk.js"
+    "revision": "1d9b17e78b11a73123bf",
+    "url": "/portfolio/static/js/main.a5e44618.chunk.js"
   },
   {
     "revision": "e73ac9e279836ecdfedf",
@@ -300,8 +300,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/pwa.71408db7.png"
   },
   {
-    "revision": "6aeade8f5ec929b1b0b7dbfd82494bc7",
-    "url": "/portfolio/static/media/realtech.6aeade8f.png"
+    "revision": "ffa755d60f8338a8daebe5cdddac7b7f",
+    "url": "/portfolio/static/media/realtech.ffa755d6.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
