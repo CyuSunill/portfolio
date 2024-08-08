@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Dynamic IT Support Specialist with expertise in software, hardware, cloud services, and network security. Proven ability to lead projects and collaborate with cross-functional teams. Celebrated for strategic problem-solving and proactive system maintenance.",
  resumeLink:
-    "https://drive.google.com/file/d/108-MRz_ehng1Y1OrWAFiWmjEcODEVPkp/view?usp=sharing",
+    "https://drive.google.com/file/d/1SxisCRpDVdGPTe-LbevXQ8gQAeUPGCBw/view?usp=sharing",
   //portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   //githubProfile: "https://github.com/ashutosh1919",
 };
